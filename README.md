@@ -1,2 +1,2 @@
-# Programs written in JavaScript to develop various datastructures
+Exercises done to sharpen data structure and JavaScript skills
 
