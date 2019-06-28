@@ -1,7 +1,7 @@
 # Data Structres & Algorithms
 - This repository contains exercices done to polish my skills in data structures, algorithms, and JavaScript.
 
-Common Algorthim Problems Include:
+Common Algorithm Problems Include:
 - String Reversal
 - Palindromes
 - Interger Reversal
